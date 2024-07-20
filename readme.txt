@@ -1,0 +1,1 @@
+Welcome to the User Registration API repository! This project provides a simple API for user registration, built with Laravel. It allows users to sign up by providing their basic information and stores it in a database.
